@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @1klick20
+- 👋 Hi, I’m @Johari M
 - 👀 I’m interested in Software Programming
 - 🌱 I’m currently learning Java and Python
 
