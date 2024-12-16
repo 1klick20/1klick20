@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Johari M
 - 👀 I’m interested in Software Programming
 - 🌱 I’m currently learning Java and Python
+- 🏫 I'm currently taking Bachelor's of Science in Information Techonolgy
 
 <!---
 1klick20/1klick20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
